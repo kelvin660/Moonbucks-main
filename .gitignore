@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+note.txt
+venv/
+api_key.txt
